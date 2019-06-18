@@ -2,6 +2,8 @@
 
 `nimi` is an R package for accessing data about names from the Statistics Estonia's [name application](https://www.stat.ee/public/apps/nimed/).
 
+![](figures/jaanika.png)
+
 ## Installation
 
 Use the `devtools` package to install the development version from Github:
@@ -46,8 +48,6 @@ get_count_by_month("Jaanika")
 # Jan  Feb  Mar  Apr  May June July  Aug Sept  Oct  Nov  Dec 
 # 117   85   98  113   99  365  126   91  100   87   91   99
 ```
-
-![](figures/jaanika.png)
 
 ### get_normalized_count_by_county(name)
 

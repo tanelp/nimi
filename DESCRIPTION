@@ -3,7 +3,7 @@ Type: Package
 Title: Enriches Estonian First Names with Data
 Version: 0.1.0
 Author: Tanel Pärnamaa
-Maintainer: Tanel Pärnamaa <tanel.parnamaa+ggest@gmail.com>
+Maintainer: Tanel Pärnamaa <tanel.parnamaa+nimi@gmail.com>
 Description: Determines the gender, popularity and other statistics of Estonian first names.
 License: MIT
 Encoding: UTF-8
